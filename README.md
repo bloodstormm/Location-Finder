@@ -13,8 +13,8 @@ O Location Finder é uma aplicação onde o usuário fornece um CEP e o site ret
 TailwindCSS e react-hot-toast, tornou o processo muito mais fácil devido as suas simplicidades. O projeto foi feito usando Typescript e uma API de CEP (VIACEP)
 
 # :pencil: O que usei para fazer este projeto?
-## Linguagens:
-- ReactJS
+## Linguagens, Frameworks e Bibliotecas:
+- ReactJS (Vite)
 - TailwindCSS
 - VIACEP API
 - react-hot-toast
