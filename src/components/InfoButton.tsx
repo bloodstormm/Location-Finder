@@ -35,14 +35,14 @@ export const InfoButton = () => {
           <div className="space-y-1 text-right">
             <p>
               Desenvolvido em:
-              <span className="text-orange-200 font-semibold">13/09/2022</span>
+              <span className="text-orange-200 font-semibold ml-1">13/09/2022</span>
             </p>
             <p>
               Ver mais projetos:
               <a
                 href="https://bloodstormm.github.io/Portfolio-2022/"
                 target="_blank"
-                className="font-semibold underline decoration-wavy decoration-orange-200"
+                className="font-semibold underline decoration-wavy decoration-orange-200 ml-1"
               >
                 Portfólio
               </a>
