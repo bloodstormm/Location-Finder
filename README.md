@@ -3,7 +3,7 @@
 
 ![header](https://i.ibb.co/V2rL0Mb/Captura-de-tela-2022-09-14-101700.png)
 
-# :sunrise_over_mountains: Location-Finder
+# :pushpin: Location-Finder
 Consultador de CEP feito usando React, Typescript, VIACEP API etc...
 
 
