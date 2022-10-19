@@ -18,7 +18,6 @@ TailwindCSS e react-hot-toast, tornou o processo muito mais fácil devido as sua
 - TailwindCSS
 - VIACEP API
 - react-hot-toast
-- TailwindCSS
 
 # 🤔 Onde ver o site?:
 
